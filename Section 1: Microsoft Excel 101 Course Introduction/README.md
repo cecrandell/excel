@@ -7,3 +7,7 @@
 - Download any exercise files included in each lesson.
 
 - You will receive a certificate of completion at the end.
+
+**Developer**
+
+- Caroline Crandell - cecrandell - cecrandell19@gmail.com - [LinkedIn](https://www.linkedin.com/in/carolinecrandell/)
