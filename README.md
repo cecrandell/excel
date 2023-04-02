@@ -3,6 +3,7 @@
 **Sections**
 
 - [Section 1: Microsoft Excel 101 Course Introduction](/Section%201%3A%20Microsoft%20Excel%20101%20Course%20Introduction/README.md)
+- [Section 2: Microsoft Excel Fundamentals](/Section%202%3A%20Microsoft%20Excel%20Fundamentals/README.md)
 
 **Developer**
 
