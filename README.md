@@ -7,6 +7,7 @@
 - [Section 3: Entering and Editing Text and Formulas](/Section%203%3A%20Entering%20and%20Editing%20Text%20and%20Formulas/README.md)
 - [Section 4: Working with Basic Excel Functions](/Section%204%3A%20Working%20with%20Basic%20Excel%20Functions/README.md)
 - [Section 5: Modifying an Excel Worksheet](/Section%205%3A%20Modifying%20an%20Excel%20Worksheet/README.md)
+- [Section 6: Formatting Data in an Excel Worksheet](/Section%206%3A%20Formatting%20Data%20in%20an%20Excel%20Worksheet/README.md)
 
 **Developer**
 
