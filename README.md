@@ -17,6 +17,10 @@
 - [Section 11: Excel 101 - Practice What You've Learned](/Section%2011%3A%20Excel%20101%20-%20Practice%20What%20You've%20Learned/README.md)
 - Section 12: Congratulations! You've Built a Solid Microsoft Excel Foundation (no curriculum for this section, just a video)
 
+### Microsoft Excel 102
+
+- [Section 13: Microsoft Excel 102 Course Introduction](/Section%2013%3A%20Microsoft%20Excel%20102%20Course%20Introduction/README.md)
+
 **Developer**
 
 - Caroline Crandell - cecrandell - cecrandell19@gmail.com - [LinkedIn](https://www.linkedin.com/in/carolinecrandell/)
