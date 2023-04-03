@@ -9,6 +9,7 @@
 - [Section 5: Modifying an Excel Worksheet](/Section%205%3A%20Modifying%20an%20Excel%20Worksheet/README.md)
 - [Section 6: Formatting Data in an Excel Worksheet](/Section%206%3A%20Formatting%20Data%20in%20an%20Excel%20Worksheet/README.md)
 - [Section 7: Inserting Images and Shapes into an Excel Worksheet](/Section%207%3A%20Inserting%20Images%20and%20Shapes%20into%20an%20Excel%20Worksheet/README.md)
+- [Section 8: Creating Basic Charts in Excel](/Section%208%3A%20Creating%20Basic%20Charts%20in%20Excel/README.md)
 
 **Developer**
 
