@@ -11,6 +11,7 @@
 - [Section 7: Inserting Images and Shapes into an Excel Worksheet](/Section%207%3A%20Inserting%20Images%20and%20Shapes%20into%20an%20Excel%20Worksheet/README.md)
 - [Section 8: Creating Basic Charts in Excel](/Section%208%3A%20Creating%20Basic%20Charts%20in%20Excel/README.md)
 - [Section 9: Printing an Excel Worksheet](/Section%209%3A%20Printing%20an%20Excel%20Worksheet/README.md)
+- [Section 10: Working with Excel Templates](/Section%2010%3A%20Working%20with%20Excel%20Templates/README.md)
 
 **Developer**
 
