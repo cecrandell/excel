@@ -1,6 +1,8 @@
 # Microsoft Excel - Excel from Beginner to Advanced ([Udemy](https://www.udemy.com/course/microsoft-excel-2013-from-beginner-to-advanced-and-beyond/))
 
-**Sections**
+## Sections
+
+### Microsoft Excel 101
 
 - [Section 1: Microsoft Excel 101 Course Introduction](/Section%201%3A%20Microsoft%20Excel%20101%20Course%20Introduction/README.md)
 - [Section 2: Microsoft Excel Fundamentals](/Section%202%3A%20Microsoft%20Excel%20Fundamentals/README.md)
@@ -12,6 +14,8 @@
 - [Section 8: Creating Basic Charts in Excel](/Section%208%3A%20Creating%20Basic%20Charts%20in%20Excel/README.md)
 - [Section 9: Printing an Excel Worksheet](/Section%209%3A%20Printing%20an%20Excel%20Worksheet/README.md)
 - [Section 10: Working with Excel Templates](/Section%2010%3A%20Working%20with%20Excel%20Templates/README.md)
+- [Section 11: Excel 101 - Practice What You've Learned](/Section%2011%3A%20Excel%20101%20-%20Practice%20What%20You've%20Learned/README.md)
+- Section 12: Congratulations! You've Built a Solid Microsoft Excel Foundation (no curriculum for this section, just a video)
 
 **Developer**
 
