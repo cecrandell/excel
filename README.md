@@ -21,6 +21,7 @@
 
 - [Section 13: Microsoft Excel 102 Course Introduction](/Section%2013%3A%20Microsoft%20Excel%20102%20Course%20Introduction/README.md)
 - [Section 14: Working with an Excel List](/Section%2014%3A%20Working%20with%20an%20Excel%20List/README.md)
+- [Section 15: Excel List Functions](/Section%2015%3A%20Excel%20List%20Functions/README.md)
 
 **Developer**
 
