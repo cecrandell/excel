@@ -54,7 +54,7 @@
 <img src="Images/before.png" width="400" />
 <img src="Images/after.png" width="400" />
 
-- If you click the "Format Painter" icon once (in the ribbon under the "Home" tab on the left side), then you can use it once somewhere else. If you double click it, you can use it an unlimited amount of times (even in different worksheets) until you press "Esc" or click on the "Format Painter" icon again.
+- If you click the "Format Painter" icon once (in the ribbon under the "Home" tab on the left side), then you can use it once somewhere else. If you double-click it, you can use it an unlimited amount of times (even in different worksheets) until you press "Esc" or click on the "Format Painter" icon again.
 
 ## Creating Styles to Format Data
 

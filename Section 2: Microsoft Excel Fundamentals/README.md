@@ -22,9 +22,9 @@
 
 <img src="Images/minimize.png" width="400" />
 
-- To minimize the ribbon, double click any section. To toggle back, double click again.
+- To minimize the ribbon, double-click any section. To toggle back, double-click again.
 
-- On Windows, right click on any button in the ribbon to add it to the "Quick Access Toolbar at the top.
+- On Windows, right-click on any button in the ribbon to add it to the "Quick Access Toolbar at the top.
 
 <img src="Images/status.png" width="400" />
 
@@ -32,7 +32,7 @@
 
 <img src="Images/statuscustomize.png" width="400" />
 
-- If you want to update the status bar, right click on it to customize it.
+- If you want to update the status bar, right-click on it to customize it.
 
 ## Understanding the Workbook
 
