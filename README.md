@@ -27,6 +27,11 @@
 - [Section 19: Working with Excel's PowerPivot Tools](/Section%2019%3A%20Working%20with%20Excel's%20PowerPivot%20Tools/README.md)
 - [Section 20: Working with Large Sets of Excel Data](/Section%2020%3A%20Working%20with%20Large%20Sets%20of%20Excel%20Data/README.md)
 - [Section 21: Excel 102 Additional Practice Exercises](/Section%2021%3A%20Excel%20102%20Additional%20Practice%20Exercises/README.md)
+- Section 22: Congratulations! You're an Intermediate Excel User (no curriculum for this section, just a video)
+
+### Microsoft Excel 103
+
+- 
 
 **Developer**
 
