@@ -24,6 +24,7 @@
 - [Section 15: Excel List Functions](/Section%2015%3A%20Excel%20List%20Functions/README.md)
 - [Section 16: Excel Data Validation](/Section%2016%3A%20Excel%20Data%20Validation/README.md)
 - [Section 17: Importing and Exporting Data](/Section%2017%3A%20Importing%20and%20Exporting%20Data/README.md) -[Section 18: Excel PivotTables](/Section%2018%3A%20Excel%20PivotTables/README.md)
+- [Section 19: Working with Excel's PowerPivot Tools](/Section%2019%3A%20Working%20with%20Excel's%20PowerPivot%20Tools/README.md)
 
 **Developer**
 

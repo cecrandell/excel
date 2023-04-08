@@ -18,7 +18,7 @@
 
 <img src="Images/tablenames.png" width="400" />
 
-- You can then rename the table name in the "Table Design" tab in the ribbon on the far left.
+- You can then rename the table name in the "Table Design" tab in the ribbon on the far left (no spaces).
 
 - Once your table is formatted, you can now create a PivotTable by navigating to the "Insert" tab in the ribbon, then select "PivotTable" on the far left.
 
