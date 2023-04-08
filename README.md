@@ -26,6 +26,7 @@
 - [Section 17: Importing and Exporting Data](/Section%2017%3A%20Importing%20and%20Exporting%20Data/README.md) -[Section 18: Excel PivotTables](/Section%2018%3A%20Excel%20PivotTables/README.md)
 - [Section 19: Working with Excel's PowerPivot Tools](/Section%2019%3A%20Working%20with%20Excel's%20PowerPivot%20Tools/README.md)
 - [Section 20: Working with Large Sets of Excel Data](/Section%2020%3A%20Working%20with%20Large%20Sets%20of%20Excel%20Data/README.md)
+- [Section 21: Excel 102 Additional Practice Exercises](/Section%2021%3A%20Excel%20102%20Additional%20Practice%20Exercises/README.md)
 
 **Developer**
 

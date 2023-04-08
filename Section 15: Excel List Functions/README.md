@@ -20,7 +20,7 @@
 
 - Then we can give the `DSUM()` a header (e.g., "Total Sales"), under which we can start building the `DSUM()` function.
 
-- The first argument of `DSUM()` requires the entire database range, which you can input manually or with shortcuts (from the top left corner of the table, on Windows: Control + Shift + Down Arrow and on Mac Command + Shift + Down Arrow, then on Windows: Control + Shift + Right Arrow and on Mac Command + Shift + Right Arrow).
+- The first argument of `DSUM()` requires the entire database range, which you can input manually or with shortcuts (from the top left corner of the table, on Windows: Control + Shift + Down Arrow and on Mac Command + Shift + Down Arrow, then on Windows: Control + Shift + Right Arrow and on Mac Command + Shift + Right Arrow). Make sure to include the column headers here.
 
 - The second argument of the `DSUM()` requires the field, so you can select anywhere in the column that has the numeric values you want to sum. It's common practice to just select the cell of the column header (e.g., "Total Sales").
 

@@ -49,6 +49,8 @@
 
 - Select the months of the year and then Excel will sort accordingly.
 
+- - On Mac, Excel is not configured to handle custom sorts outside of the default custom sorts.
+
 ## Filter an Excel List Using the AutoFilter Tool
 
 - To filter your list, select a cell in one of the columns of data you want to filter by, then select the "Data" tab in the ribbon, and click the "Filter" icon. Doing so inserts drop down icons next to each of our column headers.
@@ -110,6 +112,8 @@
 <img src="Images/3.png" width="400" />
 
 - If you select "3" from the far left panel, Excel displays everything.
+
+- Tip: sometimes you need to convert the table to a range before the subtotal command will work. We can do so by navigating to the "Table" tab in the ribbon and then select "Convert to Range".
 
 ## Format a List as a Table
 
