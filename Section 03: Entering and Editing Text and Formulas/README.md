@@ -2,17 +2,17 @@
 
 ## Labels
 
-<img src="Images/labels.png" width="400" />
+<img src="Images/labels.png" width="800" />
 
 - There are row labels on the side and column labels at the tope, where we can put text values (alpha values are letters).
 
-<img src="Images/numeric.png" width="400" />
+<img src="Images/numeric.png" width="800" />
 
 - Numeric values are right-aligned by default in Excel. This makes our decimals cleaner. Alpha values are left-aligned by default.
 
 - If you import data and your numeric values are left-aligned, there will often be a green triangle in the top left corner of each of those cells, which means Excel is thinking there is something wrong there and it's treating those text values as alpha values.
 
-<img src="Images/convert.png" width="400" />
+<img src="Images/convert.png" width="800" />
 
 - The solution is to right-click the cell and select "Convert to number".
 
@@ -20,11 +20,11 @@
 
 - Typically, a date comprises of 3 parts: day, month, and year. Date values are right-aligned by default, and dates are treated as numeric values.
 
-<img src="Images/numberformats.png" width="400" />
+<img src="Images/numberformats.png" width="800" />
 
 - To format date, select "More Number Formats...".
 
-<img src="Images/custom.png" width="400" />
+<img src="Images/custom.png" width="800" />
 
 - Then create a custom format if the format you want is not in the common date formats.
 
@@ -40,8 +40,8 @@
 
 - You can sum a range of cells manually (known as an absolute or fixed reference) or by adding the cell references together individually (known as a relative reference).
 
-<img src="Images/manual.png" width="400" />
-<img src="Images/cellstack.png" width="400" />
+<img src="Images/manual.png" width="800" />
+<img src="Images/cellstack.png" width="800" />
 
 ## Relative Reference
 
@@ -51,13 +51,13 @@
 
 - If I copy and paste a relative reference, but one of the values needs to be fixed (or absolute), the updated pasted formula will error.
 
-<img src="Images/error.png" width="400" />
-<img src="Images/error2.png" width="400" />
+<img src="Images/error.png" width="800" />
+<img src="Images/error2.png" width="800" />
 
 - To make a value absolute, we add a dollar sign ($) in front of each component of the cell value. The copy and pasted formula will no longer error.
 
-<img src="Images/absolute.png" width="400" />
-<img src="Images/copy absolute.png" width="400" />
+<img src="Images/absolute.png" width="800" />
+<img src="Images/copy absolute.png" width="800" />
 
 ## Evaluate Formula
 
@@ -67,21 +67,21 @@
 
 - BODMAS (brackets, orders, division, multiplication, addition, subtraction) is common outside of the United States.
 
-<img src="Images/order.png" width="400" />
+<img src="Images/order.png" width="800" />
 
 - Above is an example the construction of a formula that can calculate differently depending on the order of operations.
 
 ## Quiz
 
-<img src="Images/quiz1.png" width="400" />
+<img src="Images/quiz1.png" width="800" />
 
-<img src="Images/quiz2.png" width="400" />
+<img src="Images/quiz2.png" width="800" />
 
-<img src="Images/quiz3.png" width="400" />
+<img src="Images/quiz3.png" width="800" />
 
-<img src="Images/quiz4.png" width="400" />
+<img src="Images/quiz4.png" width="800" />
 
-<img src="Images/quiz.png" width="400" />
+<img src="Images/quiz.png" width="800" />
 
 **Developer**
 

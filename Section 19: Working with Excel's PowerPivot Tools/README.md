@@ -80,7 +80,7 @@
 
 - "fx Value" will give us the value of that field, "Goal" will give us the "Absolute Value" that we set in the PowerPivot KPI window (e.g., 100), and "Status" will give us the corresponding red, yellow, or green icon. We can now drag any of these values into any of the PivotTable sections.
 
-<img src="Images/iconsets.png" width="400" />
+<img src="Images/iconsets.png" width="800" />
 
 - If you're like me and do not have access to PowerPivot, you can still set status icons by going to the "Home" tab in the ribbon, then selecting the "Conditional Formatting" drop down, then selecting "Icon Sets", then "More Rules..." to set the icon ranges.
 

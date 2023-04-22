@@ -24,7 +24,7 @@
 
 - If a column is too narrow, the contents of numeric values that exceed the width of the column will read "########", indicating the column needs to be wider. Alpha values will just be cut off.
 
-<img src="Images/autofit.png" width="400" />
+<img src="Images/autofit.png" width="800" />
 
 - This can be fixed by dragging the width of the column at the top, or double-clicking to autofit the column width to the width of the cell in that column with the largest width.
 
@@ -40,13 +40,13 @@
 
 - To unhide a column or row, we can right-click the column or row and select "Unhide", or we can drag the width/height of the column/row back out.
 
-<img src="Images/headings.png" width="400" />
-<img src="Images/noheadings.png" width="400" />
+<img src="Images/headings.png" width="800" />
+<img src="Images/noheadings.png" width="800" />
 
 - To distract users from noticing any hidden columns/rows, you can hide the headings from the "View" tab in the ribbon.
 
-<img src="Images/unhide.png" width="400" />
-<img src="Images/reappear.png" width="400" />
+<img src="Images/unhide.png" width="800" />
+<img src="Images/reappear.png" width="800" />
 
 - If you hide multiple columns (e.g., if you just want to show a summary and not all of the months of data), you can select both bookend columns, right-click, and select "Unhide" and all of the columns will return.
 
@@ -76,21 +76,21 @@
 
 - On Windows, you can also hold down CTRL as you drag a worksheet tab to copy that worksheet.
 
-<img src="Images/copy.png" width="400" />
+<img src="Images/copy.png" width="800" />
 
 - If you want to copy a worksheet into a different workbook, you can do so by selecting "(new book)" (which will create a new workbook for you), or you can select a workbook that is also already open on Excel.
 
 ## Quiz
 
-<img src="Images/quiz1.png" width="400" />
+<img src="Images/quiz1.png" width="800" />
 
-<img src="Images/quiz2.png" width="400" />
+<img src="Images/quiz2.png" width="800" />
 
-<img src="Images/quiz3.png" width="400" />
+<img src="Images/quiz3.png" width="800" />
 
-<img src="Images/quiz4.png" width="400" />
+<img src="Images/quiz4.png" width="800" />
 
-<img src="Images/quiz.png" width="400" />
+<img src="Images/quiz.png" width="800" />
 
 **Developer**
 

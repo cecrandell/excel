@@ -14,7 +14,7 @@
 
 ## Function Arguments Window
 
-<img src="Images/argumentswindow.png" width="400" />
+<img src="Images/argumentswindow.png" width="800" />
 
 - To open the Function Arguments Window, you can click on the "fx" icon in the formula bar. This assists with defining the function you're using and what arguments are needed/what they mean.
 
@@ -30,33 +30,33 @@
 
 ## SUM()
 
-<img src="Images/sum.png" width="400" />
+<img src="Images/sum.png" width="800" />
 
 - To find the `SUM` function, go to the "Formulas" tab and click on the drop down on "Math & Trig" and find `SUM`.
 
-<img src="Images/arguments.png" width="400" />
+<img src="Images/arguments.png" width="800" />
 
 - Excel will detect which cells you want to `SUM` and predict then populate the range in the "Function Arguments Window". You can cutomize as necessary.
 
 ## MIN() and MAX()
 
-<img src="Images/min.png" width="400" />
-<img src="Images/max.png" width="400" />
+<img src="Images/min.png" width="800" />
+<img src="Images/max.png" width="800" />
 
 - To find `MIN()` and `MAX()` formulas, you can find them under the "Formulas" tab, then "More Fucntions", then "Statistical".
 
-<img src="Images/minsearch.png" width="400" />
-<img src="Images/maxsearch.png" width="400" />
+<img src="Images/minsearch.png" width="800" />
+<img src="Images/maxsearch.png" width="800" />
 
 - Or, you can click on the "fx" icon on the formula bar and search for the function you're looking for.
 
 ## AVERAGE()
 
-<img src="Images/typeaverage.png" width="400" />
+<img src="Images/typeaverage.png" width="800" />
 
 - If you start typing a function in the formula entry section of the formula bar, it will show a drop down menu for you to chose from.
 
-<img src="Images/average.png" width="400" />
+<img src="Images/average.png" width="800" />
 
 - Above is an example of the `AVERAGE()` function in action.
 
@@ -64,29 +64,29 @@
 
 - The `COUNT()` function only counts numeric values - it does not include empty/blank cells or text values.
 
-<img src="Images/count.png" width="400" />
+<img src="Images/count.png" width="800" />
 
 - Above is an example of the `COUNT()` function in action.
 
 ## Adjacent Cells Errors
 
-<img src="Images/adjacent.png" width="400" />
+<img src="Images/adjacent.png" width="800" />
 
 - Sometimes Excel tries to be helpful, and it detects a numeric value (e.g., a date value) above a range of cells (adjacent to the range), and as such, Excel throws an error.
 
-<img src="Images/update.png" width="400" />
+<img src="Images/update.png" width="800" />
 
 - Excel will suggest that you should "Update Formula to Include Cells", thus including the date value in the range.
 
-<img src="Images/inaccurate.png" width="400" />
+<img src="Images/inaccurate.png" width="800" />
 
 - This would produce inaccurate results, so we can fix this by clicking on the error and ignoring the error (see below).
 
-<img src="Images/ignore.png" width="400" />
+<img src="Images/ignore.png" width="800" />
 
 ## AutoSum
 
-<img src="Images/autosum.png" width="400" />
+<img src="Images/autosum.png" width="800" />
 
 - To AutoSum, select a range of cells, and then click `AutoSum` under the "Formulas" tab.
 
@@ -96,31 +96,31 @@
 
 ## Other Auto Functions
 
-<img src="Images/auto.png" width="400" />
+<img src="Images/auto.png" width="800" />
 
 - You can also use the auto drop down to automate the `MAX()` and `MIN()` functions, among others.
 
 ## AutoFill
 
-<img src="Images/autofill.png" width="400" />
+<img src="Images/autofill.png" width="800" />
 
 - Excel has a powerful tool called `AutoFill`, which is a little green square in the bottom right corner of a selected cell.
 
-<img src="Images/drag.png" width="400" />
+<img src="Images/drag.png" width="800" />
 
 - If you drag that square vertically or horizontally, it will extend the relative formula across cells.
 
 ## Quiz
 
-<img src="Images/quiz1.png" width="400" />
+<img src="Images/quiz1.png" width="800" />
 
-<img src="Images/quiz2.png" width="400" />
+<img src="Images/quiz2.png" width="800" />
 
-<img src="Images/quiz3.png" width="400" />
+<img src="Images/quiz3.png" width="800" />
 
-<img src="Images/quiz4.png" width="400" />
+<img src="Images/quiz4.png" width="800" />
 
-<img src="Images/quiz.png" width="400" />
+<img src="Images/quiz.png" width="800" />
 
 **Developer**
 

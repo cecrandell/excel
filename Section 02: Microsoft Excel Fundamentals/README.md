@@ -4,33 +4,33 @@
 
 ## Introduction to the the Interface
 
-<img src="Images/touchscreen.png" width="400" />
+<img src="Images/touchscreen.png" width="800" />
 
 - Two different modes: touch screen (a bit bigger) and mouse mode.
 
-<img src="Images/ribbon.png" width="400" />
+<img src="Images/ribbon.png" width="800" />
 
 - The top section is known as the ribbon, which comprises of various customizable sections.
 
-<img src="Images/formulabar.png" width="400" />
+<img src="Images/formulabar.png" width="800" />
 
 - The section below the ribbon is known as the formula bar, which has the name box on the left and the formula entry section on the right.
 
-<img src="Images/view.png" width="400" />
+<img src="Images/view.png" width="800" />
 
 - If you can't see the formula bar, make sure you have it ticked in the "View" tab.
 
-<img src="Images/minimize.png" width="400" />
+<img src="Images/minimize.png" width="800" />
 
 - To minimize the ribbon, double-click any section. To toggle back, double-click again.
 
 - On Windows, right-click on any button in the ribbon to add it to the "Quick Access Toolbar at the top.
 
-<img src="Images/status.png" width="400" />
+<img src="Images/status.png" width="800" />
 
 - To change the view, you can adjust this from the "status bar" at the bottom, or the "View" tab.
 
-<img src="Images/statuscustomize.png" width="400" />
+<img src="Images/statuscustomize.png" width="800" />
 
 - If you want to update the status bar, right-click on it to customize it.
 
@@ -44,15 +44,15 @@
 
 ## Quiz
 
-<img src="Images/quiz1.png" width="400" />
+<img src="Images/quiz1.png" width="800" />
 
-<img src="Images/quiz2.png" width="400" />
+<img src="Images/quiz2.png" width="800" />
 
-<img src="Images/quiz3.png" width="400" />
+<img src="Images/quiz3.png" width="800" />
 
-<img src="Images/quiz4.png" width="400" />
+<img src="Images/quiz4.png" width="800" />
 
-<img src="Images/quiz.png" width="400" />
+<img src="Images/quiz.png" width="800" />
 
 **Developer**
 
