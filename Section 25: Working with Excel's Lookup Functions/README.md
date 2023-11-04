@@ -44,6 +44,21 @@
 
 <img src="Images/4.png" width="800" />
 
+## Microsoft Excel MATCH() Function
+
+- [MATCH function](https://support.microsoft.com/en-au/office/match-function-e8dffd45-c762-47d6-bf89-533f4a37673a)
+
+- This function gives the position of the value you are searching for in a table or array
+
+1. First argument: the cell value of the value you are looking for
+2. Second argument: the entire table/list (make it absolute)
+3. Third argument: optional, but looks for matches (image below)
+
+<img src="Images/5.png" width="800" />
+<img src="Images/6.png" width="800" />
+
+- Highlight a cell/range that you want to make absolute and do `Cmd + T`
+
 **Developer**
 
 - Caroline Crandell - cecrandell - cecrandell19@gmail.com - [LinkedIn](https://www.linkedin.com/in/carolinecrandell/)
