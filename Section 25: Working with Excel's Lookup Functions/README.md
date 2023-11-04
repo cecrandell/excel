@@ -90,6 +90,16 @@
 <img src="Images/8.png" width="800" />
 <img src="Images/9.png" width="800" />
 
+## Creating a Dynamic HLOOKUP() with the MATCH() Function
+
+- [LEFT Function](https://support.microsoft.com/en-us/office/left-leftb-functions-9203d2d2-7960-479b-84c6-1ea52b99640c)
+
+- `=HLOOKUP($B$3,'Master Inventory List'!$A$2:$G$5,MATCH(LEFT(A5,11),'Master Inventory List'!$A$2:$A$5,0),FALSE)`
+
+- `LEFT(A5,11)` - the LEFT() function takes the first 11 characters of the value in cell A5 (e.g., `Warehouse 1` instead of `Warehouse 1 Inventory:`)
+
+<img src="Images/10.png" width="800" />
+
 **Developer**
 
 - Caroline Crandell - cecrandell - cecrandell19@gmail.com - [LinkedIn](https://www.linkedin.com/in/carolinecrandell/)
