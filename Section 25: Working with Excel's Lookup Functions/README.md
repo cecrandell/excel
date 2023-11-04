@@ -59,6 +59,18 @@
 
 - Highlight a cell/range that you want to make absolute and do `Cmd + T`
 
+## Microsoft Excel INDEX() and MATCH() Function Combined
+
+- `=INDEX('INDEX MATCH Master Emp List'!$D$1:$D$38, MATCH(B4,'INDEX MATCH Master Emp List'!$A$1:$A$38,0))`
+
+- `=INDEX('INDEX MATCH Master Emp List'!$D$1:$D$38` is the column range of the value you want to return (dept)
+
+- ` MATCH(B4` is the value you want to search for and `'INDEX MATCH Master Emp List'!$A$1:$A$38` is the column you want to search for that value in
+
+- The `0` at the end indicates an exact match
+
+<img src="Images/7.png" width="800" />
+
 **Developer**
 
 - Caroline Crandell - cecrandell - cecrandell19@gmail.com - [LinkedIn](https://www.linkedin.com/in/carolinecrandell/)
