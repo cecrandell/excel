@@ -22,11 +22,27 @@
 - HLOOKUP() means horizontal lookup
 
 1. First argument: what value do I need to look for to help me find the inventory (the unique match to join on)(lock the column, not the row `$B$3`)
-2. Second argument: the entire table/list 
+2. Second argument: the entire table/list
 3. Third argument: the number of the column of the unique value you want to join on
 4. Fourth argument: TRUE if you do not mind a non-exact match (e.g, for ID, it will join on the next best ID if it cannot find the exact ID match), otherwise, FALSE
 
 <img src="Images/3.png" width="800" />
+
+## Microsoft Excel INDEX() Function
+
+- [INDEX function](https://support.microsoft.com/en-us/office/index-function-a5dcf0dd-996d-40a4-a822-b56b061328bd)
+
+- A limitation of VLOOKUP() is that the unique value to match on has to be in the first column, it cannot look to the left
+
+- VLOOKUP() is also not very fast, so use them sparingly
+
+- INDEX() and MATCH() used together perform the same functionality as VLOOKUP() but without the limitations
+
+1. First argument: the entire table/list (make it absolute)
+2. Second argument: the number of column you are looking for
+3. Third argument: the number of row you are looking for
+
+<img src="Images/4.png" width="800" />
 
 **Developer**
 
