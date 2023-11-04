@@ -71,6 +71,25 @@
 
 <img src="Images/7.png" width="800" />
 
+## Microsoft Excel INDEX() and MATCH() Function Combined Continued
+
+- `=INDEX('Master Emp List'!$A$1:$I$38, MATCH($B3,'Master Emp List'!$A$1:$A$38,0),MATCH(C$2,'Master Emp List'!$A$1:$I$1,0))`
+
+- `=INDEX('Master Emp List'!$A$1:$I$38,` shows the full table to search from, we want this to be absolute because we do not want it to change
+
+- In the row argument for INDEX(), `MATCH($B3` is the ID value we want to match again (lock the column, not the cell number for when we drag across and down)
+
+- `Master Emp List'!$A$1:$A$38` is the column we want to match the ID value in - this should be absolute because it never changes
+
+- `0)` because we always want an exact match
+
+- For the column argument for INDEX(), we want the column headers using `MATCH(C$2` (lock the row value, but keep the column value dynamic as we drag across)
+
+- `'Master Emp List'!$A$1:$I$1,0))` indicates the column headers and that we want and exact match
+
+<img src="Images/8.png" width="800" />
+<img src="Images/9.png" width="800" />
+
 **Developer**
 
 - Caroline Crandell - cecrandell - cecrandell19@gmail.com - [LinkedIn](https://www.linkedin.com/in/carolinecrandell/)
