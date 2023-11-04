@@ -34,6 +34,10 @@
 - [Section 23: Microsoft Excel 103 Course Introduction](/Section%2023%3A%20Microsoft%20Excel%20103%20Course%20Introduction/README.md)
 - [Section 24: Working with Excel's Conditional Functions](/Section%2024%3A%20Working%20with%20Excel's%20Conditional%20Functions/README.md)
 
+#### Then I got a job, and stopped working on this course for about 6 months - resumed in November 2023
+
+- [Section 25: Working with Excel's Lookup Functions](/Section%2025%3A%20Working%20with%20Excel's%20Lookup%20Functions/README.md)
+
 **Developer**
 
 - Caroline Crandell - cecrandell - cecrandell19@gmail.com - [LinkedIn](https://www.linkedin.com/in/carolinecrandell/)
