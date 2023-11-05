@@ -37,6 +37,7 @@
 #### Then I got a job, and stopped working on this course for about 6 months - resumed in November 2023
 
 - [Section 25: Working with Excel's Lookup Functions](/Section%2025%3A%20Working%20with%20Excel's%20Lookup%20Functions/README.md)
+- [Section 26: Working with Excel's Text Based Functions](/Section%2026:%20Working%20with%20Excel's%20Text%20Based%20Functions/README.md)
 
 **Developer**
 
