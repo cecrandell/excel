@@ -38,6 +38,7 @@
 
 - [Section 25: Working with Excel's Lookup Functions](/Section%2025%3A%20Working%20with%20Excel's%20Lookup%20Functions/README.md)
 - [Section 26: Working with Excel's Text Based Functions](/Section%2026:%20Working%20with%20Excel's%20Text%20Based%20Functions/README.md)
+- [Section 27: Auditing an Excel Worksheet](/Section%2027:%20Auditing%20an%20Excel%20Worksheet/README.md)
 
 **Developer**
 
