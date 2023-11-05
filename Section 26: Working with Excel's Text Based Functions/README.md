@@ -28,7 +28,9 @@
 
 - [CONCATENTATE Function](https://support.microsoft.com/en-us/office/concatenate-function-8f8ae884-2ca8-4f7a-b093-75d702bea31d)
 
-## Using Excel Adv. Functions and Formulas Quick Guide (Guide)
+## Using Excel Adv. Functions and Formulas Quick Guide
+
+- [Guide](./Resources/MasterExcelAdvancedFunctionsFormulas-01.pdf)
 
 **Developer**
 
