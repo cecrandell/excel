@@ -29,6 +29,22 @@
 
 ## Working with Excel's Solver Tool
 
+- First you need to install Solver using the steps below
+
+<img src="Images/6.png" width="800" />
+<img src="Images/7.png" width="800" />
+<img src="Images/8.png" width="800" />
+<img src="Images/9.png" width="800" />
+
+- Add the constraints and then Solver will find a solution
+
+<img src="Images/10.png" width="800" />
+<img src="Images/11.png" width="800" />
+<img src="Images/12.png" width="800" />
+<img src="Images/13.png" width="800" />
+<img src="Images/14.png" width="800" />
+<img src="Images/15.png" width="800" />
+
 ## Building Effective Data Tables in Excel
 
 ## Creating Scenarios in Excel
