@@ -14,6 +14,21 @@
 
 <img src="Images/1.png" width="800" />
 
+## Protecting the Structure of a Workbook
+
+- [Protect a workbook](https://support.microsoft.com/en-us/office/protect-a-workbook-7e365a4d-3e89-4616-84ca-1931257c1517)
+
+- In the "Review" tab, toggle "Protect Workbook" to lock and unlock certain functions (e.g., deleting or renaming a worksheet)
+
+<img src="Images/2.png" width="800" />
+<img src="Images/3.png" width="800" />
+
+## Adding a Workbook Password
+
+- [Require a password to open or modify a workbook](https://support.microsoft.com/en-us/office/require-a-password-to-open-or-modify-a-workbook-10579f0e-b2d9-4c05-b9f8-4109a6bce643)
+
+- File > Info > Protect Workbook
+
 **Developer**
 
 - Caroline Crandell - cecrandell - cecrandell19@gmail.com - [LinkedIn](https://www.linkedin.com/in/carolinecrandell/)
