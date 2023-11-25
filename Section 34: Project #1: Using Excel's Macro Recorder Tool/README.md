@@ -38,6 +38,12 @@
 
 ## Adding the Excel Macro to the Quick Access Toolbar
 
+- [Quick Access Toolbar](https://support.microsoft.com/en-au/office/move-the-quick-access-toolbar-d74e73f2-0471-442a-8178-f37cc93d0954)
+
+<img src="Images/7.png" width="800" />
+<img src="Images/8.png" width="800" />
+<img src="Images/9.png" width="800" />
+
 ## Project #1: Editing the VBA Recorded by the Macro Recorder
 
 ## Save a Workbook with a Macro/VBA Code
