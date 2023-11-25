@@ -37,6 +37,16 @@
 
 ## Creating Buttons to Run Macros
 
+- [Assign a macro to a Form or a Control button](https://support.microsoft.com/en-au/office/assign-a-macro-to-a-form-or-a-control-button-d58edd7d-cb04-4964-bead-9c72c843a283)
+
+<img src="Images/7.png" width="800" />
+<img src="Images/8.png" width="800" />
+<img src="Images/9.png" width="800" />
+<img src="Images/10.png" width="800" />
+<img src="Images/11.png" width="800" />
+
+- Excel workbooks with macros need to be saved as `.xlsm` files
+
 **Developer**
 
 - Caroline Crandell - cecrandell - cecrandell19@gmail.com - [LinkedIn](https://www.linkedin.com/in/carolinecrandell/)
