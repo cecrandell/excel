@@ -13,6 +13,17 @@
 ## Creating a Macro with the Macro Recorder
 
 <img src="Images/1.png" width="800" />
+<img src="Images/2.png" width="800" />
+
+- Click "Record Macro" and fill in details - once you click "OK", Excel will start recording all of your actions
+
+- Excel will not allow spaces in Macro names
+
+- Command + Shift + Plus adds a row
+
+- After you are done, click "Stop Recording"
+
+<img src="Images/3.png" width="800" />
 
 ## Editing a Macro with VBA
 

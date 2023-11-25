@@ -39,6 +39,9 @@
 - [Section 25: Working with Excel's Lookup Functions](/Section%2025%3A%20Working%20with%20Excel's%20Lookup%20Functions/README.md)
 - [Section 26: Working with Excel's Text Based Functions](/Section%2026:%20Working%20with%20Excel's%20Text%20Based%20Functions/README.md)
 - [Section 27: Auditing an Excel Worksheet](/Section%2027:%20Auditing%20an%20Excel%20Worksheet/README.md)
+- [Section 28: Protecting Excel Worksheets and Workbooks](/Section%2028:%20Protecting%20Excel%20Worksheets%20and%20Workbooks/README.md)
+- [Section 29: Mastering Excel's "What If?" Tools](/Section%2029:%20Mastering%20Excel's%20"What%20If?"%20Tools/README.md)
+- [Section 30: Automating Repetitive Tasks in Excel with Macros](/Section%2030:%20Automating%20Repetitive%20Tasks%20in%20Excel%20with%20Macros/README.md)
 
 **Developer**
 
