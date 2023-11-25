@@ -1,10 +1,10 @@
 # Section 34: Project #1: Using Excel's Macro Recorder Tool
 
-## Introduction to Project #1: Inserting and Formatting Text
+<!-- ## Introduction to Project #1: Inserting and Formatting Text
 
 ## Project #1: Section Exercise Files
 
-## Activating the Excel Developer Tab
+## Activating the Excel Developer Tab -->
 
 ## Project #1: Starting Recording!
 
@@ -46,9 +46,22 @@
 
 ## Project #1: Editing the VBA Recorded by the Macro Recorder
 
+<img src="Images/10.png" width="800" />
+<img src="Images/11.png" width="800" />
+
+- Edit the module to customize the Visual Basic code
+
 ## Save a Workbook with a Macro/VBA Code
 
+- [Save a macro](https://support.microsoft.com/en-us/office/save-a-macro-24a026ef-3145-4bf8-a5f2-2fc7889ff74a)
+
 ## Practical Uses of Excel Macros
+
+- Import Data
+
+- Cleaning Up and Formatting Data
+
+- Sorting and Filtering Data
 
 **Developer**
 
