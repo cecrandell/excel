@@ -18,6 +18,32 @@
 
 <img src="Images/2.png" width="800" />
 
+## Project # 1: Running an Excel Macro with a Button
+
+- Buttons are specific to worksheets
+
+- You cannot change the color or border of buttons
+
+## BONUS - Create a Custom Button Using Excel Shapes
+
+- Insert a shape, right-click the shape and then select "Assign Macro..." then select which macro you want to assign to the shape and click the macro
+
+<img src="Images/3.png" width="800" />
+<img src="Images/4.png" width="800" />
+<img src="Images/5.png" width="800" />
+
+- To test a button or shape with an assigned macro that formats, you can select all of the relevant cells then click "Clear Formats..." under the Home tab
+
+<img src="Images/6.png" width="800" />
+
+## Adding the Excel Macro to the Quick Access Toolbar
+
+## Project #1: Editing the VBA Recorded by the Macro Recorder
+
+## Save a Workbook with a Macro/VBA Code
+
+## Practical Uses of Excel Macros
+
 **Developer**
 
 - Caroline Crandell - cecrandell - cecrandell19@gmail.com - [LinkedIn](https://www.linkedin.com/in/carolinecrandell/)
