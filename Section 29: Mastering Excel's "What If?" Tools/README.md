@@ -58,6 +58,29 @@
 
 ## Creating Scenarios in Excel
 
+- [Switch between various sets of values by using scenarios](https://support.microsoft.com/en-us/office/switch-between-various-sets-of-values-by-using-scenarios-2068afb1-ecdf-4956-9822-19ec479f55a2)
+
+<img src="Images/20.png" width="800" />
+<img src="Images/21.png" width="800" />
+<img src="Images/22.png" width="800" />
+<img src="Images/23.png" width="800" />
+<img src="Images/24.png" width="800" />
+<img src="Images/25.png" width="800" />
+<img src="Images/26.png" width="800" />
+<img src="Images/27.png" width="800" />
+<img src="Images/28.png" width="800" />
+<img src="Images/29.png" width="800" />
+<img src="Images/30.png" width="800" />
+<img src="Images/31.png" width="800" />
+<img src="Images/32.png" width="800" />
+<img src="Images/33.png" width="800" />
+<img src="Images/34.png" width="800" />
+<img src="Images/35.png" width="800" />
+<img src="Images/36.png" width="800" />
+<img src="Images/37.png" width="800" />
+
+- The scenario manager feature lets you set up different scenarios so that you do not have to make a bunch of worksheets - you can set the various values you want to see
+
 **Developer**
 
 - Caroline Crandell - cecrandell - cecrandell19@gmail.com - [LinkedIn](https://www.linkedin.com/in/carolinecrandell/)
