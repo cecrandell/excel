@@ -50,6 +50,7 @@
 - [Section 34: Project #1: Using Excel's Macro Recorder Tool](/Section%2034:%20Project%20#1:%20Using%20Excel's%20Macro%20Recorder%20Tool/README.md)
 - [Section 35: Excel VBA Concepts](/Section%2035:%20Excel%20VBA%20Concepts/README.md)
 - [Section 36: Working with Excel VBA Logic Statements](/Section%2036:%20Working%20with%20Excel%20VBA%20Logic%20Statements/README.md)
+- [Section 37: Project #2: Moving Beyond the Basics and into VBA](/Section%2037:%20Project%20#2:%20Moving%20Beyond%20the%20Basics%20and%20into%20VBA/README.md)
 
 **Developer**
 
