@@ -8,9 +8,11 @@
 
 ## Activating the Developer Tab in Excel
 
-<img src="Images/1.png" width="800" />
+- [Customize the ribbon in Office](https://support.microsoft.com/en-au/office/customize-the-ribbon-in-office-00f24ca7-6021-48d3-9514-a31a460ecb31) - this is to add the Developer Tab
 
 ## Creating a Macro with the Macro Recorder
+
+<img src="Images/1.png" width="800" />
 
 ## Editing a Macro with VBA
 
