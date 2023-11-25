@@ -42,6 +42,10 @@
 - [Section 28: Protecting Excel Worksheets and Workbooks](/Section%2028:%20Protecting%20Excel%20Worksheets%20and%20Workbooks/README.md)
 - [Section 29: Mastering Excel's "What If?" Tools](/Section%2029:%20Mastering%20Excel's%20"What%20If?"%20Tools/README.md)
 - [Section 30: Automating Repetitive Tasks in Excel with Macros](/Section%2030:%20Automating%20Repetitive%20Tasks%20in%20Excel%20with%20Macros/README.md)
+- [Section 31: Excel 103 Additional Practice Exercises](/Section%2031:%20Excel%20103%20Additional%20Practice%20Exercises/README.md)
+- Section 32: Congratulations on Completing the Microsoft Excel 103! (no curriculum for this section, just a video)
+
+### Microsoft Excel Macros and VBA Course
 
 **Developer**
 
