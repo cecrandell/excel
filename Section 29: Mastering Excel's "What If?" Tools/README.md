@@ -47,6 +47,15 @@
 
 ## Building Effective Data Tables in Excel
 
+- [Calculate multiple results by using a data table](https://support.microsoft.com/en-us/office/calculate-multiple-results-by-using-a-data-table-e95e2487-6ca6-4413-ad12-77542a5ea50b)
+
+<img src="Images/16.png" width="800" />
+<img src="Images/17.png" width="800" />
+<img src="Images/18.png" width="800" />
+<img src="Images/19.png" width="800" />
+
+- The above is an example of a single variable data table
+
 ## Creating Scenarios in Excel
 
 **Developer**
