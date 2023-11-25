@@ -27,6 +27,14 @@
 
 ## Editing a Macro with VBA
 
+- [Edit a macro](https://support.microsoft.com/en-gb/office/edit-a-macro-ed9e8c3d-58fd-47a1-83eb-bdee680376bb)
+
+- To edit the macro, you need to select "Visual Basic" in the Developer tab to customize the steps in in the Module code (see screenshots below)
+
+<img src="Images/4.png" width="800" />
+<img src="Images/5.png" width="800" />
+<img src="Images/6.png" width="800" />
+
 ## Creating Buttons to Run Macros
 
 **Developer**
