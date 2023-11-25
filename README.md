@@ -47,6 +47,9 @@
 
 ### Microsoft Excel Macros and VBA Course
 
+- [Section 34: Project #1: Using Excel's Macro Recorder Tool](/Section%2034:%20Project%20#1:%20Using%20Excel's%20Macro%20Recorder%20Tool/README.md)
+- [Section 35: Excel VBA Concepts](/Section%2035:%20Excel%20VBA%20Concepts/README.md)
+
 **Developer**
 
 - Caroline Crandell - cecrandell - cecrandell19@gmail.com - [LinkedIn](https://www.linkedin.com/in/carolinecrandell/)
