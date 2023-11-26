@@ -51,6 +51,12 @@
 - [Section 35: Excel VBA Concepts](/Section%2035:%20Excel%20VBA%20Concepts/README.md)
 - [Section 36: Working with Excel VBA Logic Statements](/Section%2036:%20Working%20with%20Excel%20VBA%20Logic%20Statements/README.md)
 - [Section 37: Project #2: Moving Beyond the Basics and into VBA](/Section%2037:%20Project%20#2:%20Moving%20Beyond%20the%20Basics%20and%20into%20VBA/README.md)
+- [Section 38: Project #3: Preparing and Cleaning Up Data with Excel VBA](/Section%2038:%20Project%20#3:%20Preparing%20and%20Cleaning%20Up%20Data%20with%20Excel%20VBA/README.md)
+- [Section 39: Project #4: Using VBA to Automate Excel Formulas](/Section%2039:%20Project%20#4:%20Using%20VBA%20to%20Automate%20Excel%20Formulas/README.md)
+- [Section 40: Project #5: Bringing it All Together and a Weekly Report](/Section%2040:%20Project%20#5:%20Bringing%20it%20All%20Together%20and%20a%20Weekly%20Report/README.md)
+- []()
+- []()
+- []()
 
 **Developer**
 
