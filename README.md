@@ -54,9 +54,9 @@
 - [Section 38: Project #3: Preparing and Cleaning Up Data with Excel VBA](/Section%2038:%20Project%20#3:%20Preparing%20and%20Cleaning%20Up%20Data%20with%20Excel%20VBA/README.md)
 - [Section 39: Project #4: Using VBA to Automate Excel Formulas](/Section%2039:%20Project%20#4:%20Using%20VBA%20to%20Automate%20Excel%20Formulas/README.md)
 - [Section 40: Project #5: Bringing it All Together and a Weekly Report](/Section%2040:%20Project%20#5:%20Bringing%20it%20All%20Together%20and%20a%20Weekly%20Report/README.md)
-- []()
-- []()
-- []()
+- [Section 41: Project #6: Working with Excel VBA User Forms](/Section%2041:%20Project%20#6:%20Working%20with%20Excel%20VBA%20User%20Forms/README.md)
+- [Section 42: Project #7: Importing Data from Text Files](/Section%2042:%20Project%20#7:%20Importing%20Data%20from%20Text%20Files/README.md)
+- Section 43: Congratulations! You're an Excel Macro/VBA Master! (no curriculum for this section, just a video)
 
 **Developer**
 
