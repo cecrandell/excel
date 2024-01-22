@@ -1,6 +1,6 @@
 # Microsoft Excel - Excel from Beginner to Advanced ([Udemy](https://www.udemy.com/course/microsoft-excel-2013-from-beginner-to-advanced-and-beyond/))
 
-- [Completion Certificate]()
+- [Completion Certificate](/2024.01.21%20Excel%20Udemy.pdf)
 
 ## Sections
 
